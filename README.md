@@ -23,13 +23,13 @@
 
 ## 💫 About Me
 
-- 🎓 **Education:** Pursuing/Graduated with [Degree Name] in [Field of Study] at **[University/Institute Name]** (*[Graduation Year]*).
+- 🎓 **Education:** Pursuing/Graduated with NETWORK AND SECURITY COMPUTER in COMPUTER SCIENCE at **[UNIVERSITI TEKNOLOGI MALAYSIA]** (*[Graduation Year]*).
 - 💼 **Experience:** Currently working as **[Current Job Title]** at **[Company/Organization]** (*[Dates]*).
 - 🔬 **Current Focus:** Deep diving into **[Primary Focus/Topic]**.
 - 🌱 **Learning:** Expanding my expertise in **[New Tech/Skill You're Learning]**.
 - 🎯 **Career Goals:** Aiming to **[Short summary of your career objectives or target roles]**.
 - 💬 **Ask me about:** **[Topics you excel at, e.g., React, Python, Distributed Systems]**.
-- ⚡ **Fun Fact:** **[Add a fun personal detail or hobby here]**.
+- ⚡ **Fun Fact:** **A PRODIGY IN SUDOKU🫡**.
 
 ---
 
