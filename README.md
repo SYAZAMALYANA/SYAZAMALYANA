@@ -6,7 +6,7 @@
   </a>
 
   <p align="center">
-    <strong>[Your Brief Tagline / Personal Pitch – e.g., Passionate about building scalable web systems & exploring AI/ML]</strong>
+    <strong>[Eager to learn👩‍💻, eager to earn💰]</strong>
   </p>
 
   <!-- Quick Social & Contact Badges -->
